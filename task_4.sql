@@ -1,5 +1,3 @@
-# SQL script to print the full description of the table books without using DESCRIBE or EXPLAIN
-
 # Select the database if not already selected
 USE alx_book_store;
 
