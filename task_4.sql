@@ -13,4 +13,4 @@ FROM
     information_schema.COLUMNS
 WHERE 
     TABLE_SCHEMA = 'alx_book_store'  -- Specify your database name
-    AND TABLE_NAME = 'books';        -- Specify your table name
+    AND TABLE_NAME = 'Books';        -- Specify your table name
